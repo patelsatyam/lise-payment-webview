@@ -1,0 +1,17 @@
+{
+  "name": "lise-payment-webview",
+  "version": "1.0.3",
+  "description": "this is simple webview for payment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  },
+  "author": "satyam patel",
+  "license": "MIT",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.66.0"
+  }
+}
